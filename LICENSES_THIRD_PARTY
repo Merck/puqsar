@@ -1,0 +1,20 @@
+--------------------------------------------------
+Third party dependencies listed by License type
+[Format: name (Python module) - URL]
+--------------------------------------------------
+
+OSI Approved (new BSD)
+* SciPy (scipy) -  https://github.com/scipy/scipy/blob/main/LICENSE.txt
+* scikit-learn (sklearn) - https://github.com/scikit-learn/scikit-learn/blob/main/COPYING
+
+BSD 3-Clause License
+* Numpy (numpy) - https://github.com/numpy/numpy/blob/main/LICENSE.txt
+* Pandas (pandas) - https://github.com/pandas-dev/pandas/blob/5aba6659e422e985683cfb46c07c3364a02b6e5b/AUTHORS.md
+* Dill (dill) - https://github.com/uqfoundation/dill/blob/master/LICENSE
+
+MIT License (MIT)
+* Keras (keras) - https://github.com/keras-team/keras/blob/dc698c5486117780b643eda0a2f60a8753625b8a/LICENSE
+* LightGBM (lightgbm) - https://github.com/microsoft/LightGBM/blob/master/LICENSE
+
+Apache Software License (Apache 2.0)
+* TensorFlow (tensorflow) - https://github.com/tensorflow/tensorflow/blob/6b6d843ccab78f9f91c3b98a43ca09ffecad4747/LICENSE
