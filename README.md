@@ -8,9 +8,9 @@ Authors: Yuting Xu, Andy Liaw, Robert P. Sheridan, and Vladimir Svetnik
 
 Affiliation: Merck & Co., Inc., Rahway, New Jersey 07065, United States
 
-Maintainer: yuting.xu@merck.com
+Developer & Maintainer: yuting.xu@merck.com
 
-Last updated: 08/29/2023
+Last updated: Sep. 5th, 2023
 
 ## Workflow
 
