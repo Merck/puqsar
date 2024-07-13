@@ -4,13 +4,9 @@ This package contains Python code to construct prediction intervals for QSAR reg
 The implemented QSAR prediction models include: Random Forests, Fully-Connected Neural Networks, and Gradient Boosting.
 The methodology for developing prediction intervals accompanying the point predictors can be find in Reference [1] and [2].
 
-Authors: Yuting Xu, Andy Liaw, Robert P. Sheridan, and Vladimir Svetnik
+Developer & Maintainer: Yuting Xu (Merck & Co., Inc.) <yuting.xu@merck.com>
 
-Affiliation: Merck & Co., Inc., Rahway, New Jersey 07065, United States
-
-Developer & Maintainer: yuting.xu@merck.com
-
-Last updated: Sep. 5th, 2023
+Last updated: Jul. 13th, 2024
 
 ## Workflow
 
@@ -36,7 +32,7 @@ Simply clone or download the repository to your local machine, and use the provi
 
 ## Reference
 
-[1] Xu, Y., Liaw, A., Sheridan, R.P. and Svetnik, V., 2023. Development and Evaluation of Conformal Prediction Methods for QSAR. arXiv preprint arXiv:2304.00970.
+[1] Xu, Y., Liaw, A., Sheridan, R. P., & Svetnik, V. (2024). Development and Evaluation of Conformal Prediction Methods for Quantitative Structure–Activity Relationship. ACS Omega. [Link](https://pubs.acs.org/doi/full/10.1021/acsomega.4c02017)
 
 [2] Cortes-Ciriano, I.; Bender, A. Reliable prediction errors for deep neural networks using test-time dropout. Journal of chemical information and modeling 2019, 59, 3330–3339.
 
